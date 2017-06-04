@@ -1,0 +1,7 @@
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\bin\Debug\netstandard1.4\MisClases.deps.json
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\obj\Debug\netstandard1.4\MisClases.csprojResolveAssemblyReference.cache
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\obj\Debug\netstandard1.4\MisClases.AssemblyInfo.cs
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\bin\Debug\netstandard1.4\MisClases.dll
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\bin\Debug\netstandard1.4\MisClases.pdb
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\obj\Debug\netstandard1.4\MisClases.dll
+C:\Users\alexis.chas\Desktop\OneDrive - Softtek\Repaso Final laboratorio III\RepasoFinalLabIII\repasoParcial1\MisClases\MisClases\obj\Debug\netstandard1.4\MisClases.pdb
